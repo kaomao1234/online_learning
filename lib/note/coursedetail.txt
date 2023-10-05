@@ -1,0 +1,6 @@
+AddCourseModel:
+    username:str
+    cName:str
+    catName:str
+    cDescription:str
+    cVideo:Map<Srting,dynamic>

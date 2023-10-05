@@ -1,0 +1,3 @@
+SessionModel:
+    username:String
+    courseEnter:String
